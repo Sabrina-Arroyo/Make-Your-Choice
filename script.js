@@ -536,6 +536,23 @@ THE CREATOR HAS DIED.`,
     restart: true
   },
 
+  TOO_LOUD: {
+    ending: true,
+    text: `The Creator calls out even louder.
+
+This time, something answers.
+
+The sound is so powerful that the ground begins shaking.
+
+The Creator looks around.
+
+Every creature in the world has heard them.
+
+Unfortunately, they are all coming.`,
+    restart: true
+  },
+
+  
   THE_COLLAPSE: {
     ending: true,
     text: `The ground shakes.
