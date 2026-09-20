@@ -92,6 +92,23 @@ The Creator realizes that calling every creation at once probably wasn't a very 
     ]
   },
 
+  TOO_LOUD: {
+    ending: true,
+    text: `The Creator calls out even louder.
+
+This time, something answers.
+
+The sound is so powerful that the ground begins shaking.
+
+The Creator looks around.
+
+Every creature in the world has heard them.
+
+Unfortunately, they are all coming.`,
+    restart: true
+  },
+
+  
   THE_VILLAGE: {
     text: `The Creator reaches a small village.
 
